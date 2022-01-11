@@ -9,7 +9,7 @@
 
 ## Course Readings
 Week 1 
-- Get acquainted (fill out survey)
-- Go over syllabus (practice annotation)
+- Get acquainted (fill out survey).
+- Go over syllabus (practice annotation).
 - Overview of the Queer Newark Oral History Project and website.
 - Discussion of primary and secondary sources.
